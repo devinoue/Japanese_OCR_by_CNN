@@ -30,9 +30,11 @@ VGG-16の学習済みモデルを利用して学習させていきます。
 
 # 精度
 ![](https://raw.githubusercontent.com/devinoue/Japanese_OCR_by_CNN/master/images/acc.png)
+
 精度 = 0.9039047710738796
 
 ![](https://raw.githubusercontent.com/devinoue/Japanese_OCR_by_CNN/master/images/loss.png)
+
 損失誤差= 0.38764024693433413
 
 他クラス分類問題なので精度に不安がありますが、ひとまずこんなものではないのでしょうか。
