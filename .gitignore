@@ -1,0 +1,16 @@
+*.ipynb
+.ipynb_checkpoints
+/ETL1
+/png-etl1
+/chap6
+/ETL8G
+/png-etl8
+/extract
+テスト.*
+*.txt
+Untitled2.*
+*.svg
+*.pickle
+Untitled*
+てすと*
+解説*
