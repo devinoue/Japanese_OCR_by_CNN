@@ -28,10 +28,10 @@ VGG-16の学習済みモデルを利用して学習させていきます。
 転移学習ではfit()メソッドはあまり使わていないように見受けられます。
 素直にfit_generate()メソッドを使用し、学習させたいと思います。
 
-# 精度
+# 正解率
 ![](https://raw.githubusercontent.com/devinoue/Japanese_OCR_by_CNN/master/images/acc.png)
 
-精度 = 0.9039047710738796
+正解率 = 0.9039047710738796
 
 ![](https://raw.githubusercontent.com/devinoue/Japanese_OCR_by_CNN/master/images/loss.png)
 
